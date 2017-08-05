@@ -1,5 +1,6 @@
 package com.altariwing.loopdemo;
 
+//meow
 public class Loopdemo {
 
     public static void main(String[] args) {
@@ -14,6 +15,8 @@ public class Loopdemo {
         System.out.println(accumulator.accumulateToUsingWhileLoop(0));
         System.out.println(accumulator.accumulateToUsingDoWhileLoop(0));
         
+System.out.println("多印一行你知道嗎");
+
         System.out.println(accumulator.returnEndIndexForTotal(50));
         System.out.println(accumulator.returnEndIndexForTotalUsingInfinityLoop(50));
         System.out.println(accumulator.returnEndIndexForTotal(5050));
